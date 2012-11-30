@@ -8,6 +8,12 @@ License
 If you use or redistribute please link back here (https://github.com/adnphllps/bitcoin_talk)  
 http://creativecommons.org/licenses/by/3.0/deed.en_US
 
+Google docs Presentation
+============
+The full presentation can be found here:  
+https://docs.google.com/presentation/d/1My5kh7nEhLM55g08kZIApn4VE8qJHpF0gNizE6GExaQ/edit#slide=id.g42e7b773_0_54  
+(Infographic in the presentation may not be the latest version)
+
 
 References
 ============
