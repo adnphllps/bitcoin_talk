@@ -36,3 +36,6 @@ http://icongal.com/gallery/icon/6806/128/history_accounting
 http://www.butterflylabs.com/products/  
 http://www.tazamo.co.uk/userfiles/images/mc900441716.png  
 http://icongal.com/gallery  
+
+Fonts
+http://developer.android.com/design/style/typography.html
